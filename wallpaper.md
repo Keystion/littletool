@@ -18,6 +18,8 @@ Wallpaper site: :point_right: [:link:](https://interfacelift.com/wallpaper/downl
   j.join();
   ```
 4. Paste the Console,Execution;
+5. Click result;
+6. Tools bulk download；
 
 :stuck_out_tongue:
 
