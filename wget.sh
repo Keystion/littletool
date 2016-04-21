@@ -10,11 +10,9 @@ user=$USER    # 当前用户
 cd /Users/$user
 
 if [ ! -d './wget_files' ]; then 
-echo '不存在'
 mkdir 'wget_files'
 cd 'wget_files'
 else
-echo '存在'
 cd 'wget_files'
 fi
 
