@@ -17,6 +17,14 @@ wget -r -p -np -k --restrict-file-names=nocontrol [url]
 
 [wget.sh](./wget.sh)
 
+put it in `/Users/$user`
+
+```
+chmod -x wget.sh // Writable
+
+./wget [url] // Any directory
+```
+
 #### Wiki
 
 - https://en.wikipedia.org/wiki/Wget
