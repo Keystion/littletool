@@ -65,3 +65,5 @@ history 25
 - [15 Examples To Master Linux Command Line History](http://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history)
 - [The Power of Linux “History Command” in Bash Shell](http://www.tecmint.com/history-command-examples/)
 - [USING THE HISTORY COMMAND](https://mediatemple.net/community/products/dv/204404624/using-the-history-command)
+- [12 Practical Examples of Linux grep Command](http://www.tecmint.com/12-practical-examples-of-linux-grep-command/)
+- [GNU Grep 2.25](http://www.gnu.org/software/grep/manual/grep.html)
