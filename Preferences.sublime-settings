@@ -1,3 +1,7 @@
+/**
+ * 纯粹为了漫游个人使用Sublime Text的一些配置
+ */
+
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
