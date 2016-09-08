@@ -1,6 +1,6 @@
 #### Get wallpaper url with Javascript
 
-`Cheome Dev Tool` 
+`Chrome Dev Tool` 
 
 Wallpaper site: :point_right: [:link:](https://interfacelift.com/wallpaper/downloads/date/any/) :point_left:
 
