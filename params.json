@@ -1,0 +1,6 @@
+{
+  "name": "Littletool",
+  "tagline": "一些小脚本",
+  "body": "# littletool\r\n\r\n- [figlet](./figlet.md)\r\n- [wallpaper](./wallpaper.md)\r\n- [watch](./watch.md)\r\n- [wget](./wget.md)\r\n- [history && grep](./history-grep.md)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
