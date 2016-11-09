@@ -28,8 +28,8 @@ wget -P [PATH] -i file.txt
 
 #### install wget
 
-- Homebrew
-- MacPorts
+- [Homebrew](http://brew.sh/)
+- [MacPorts](https://www.macports.org/)
 
 #### little shell
 
