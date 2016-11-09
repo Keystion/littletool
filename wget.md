@@ -10,7 +10,7 @@ wget -r -p -np -k --restrict-file-names=nocontrol [url]
 
 ---
 
-把文件保存到指定的目录下：
+Save the file to the specified directory：
 
 > image from Weibo.com
 
