@@ -1,6 +1,6 @@
 {
   "name": "Littletool",
   "tagline": "一些小脚本",
-  "body": "# littletool \r\n\r\n- [figlet](https://github.com/Keystion/littletool/blob/master//figlet.md)\r\n- [wallpaper](https://github.com/Keystion/littletool/blob/master//wallpaper.md)\r\n- [watch](https://github.com/Keystion/littletool/blob/master//watch.md)\r\n- [wget](https://github.com/Keystion/littletool/blob/master//wget.md)\r\n- [history && grep](https://github.com/Keystion/littletool/blob/master//history-grep.md)\r\n",
+  "body": "# littletool \r\n\r\n- [figlet](https://github.com/Keystion/littletool/blob/master/figlet.md)\r\n- [wallpaper](https://github.com/Keystion/littletool/blob/master/wallpaper.md)\r\n- [watch](https://github.com/Keystion/littletool/blob/master/watch.md)\r\n- [wget](https://github.com/Keystion/littletool/blob/master/wget.md)\r\n- [history && grep](https://github.com/Keystion/littletool/blob/master/history-grep.md)\r\n- [Copy the Current Path from Terminal](https://github.com/Keystion/littletool/blob/master/Copy the Current Path from Terminal.md)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
