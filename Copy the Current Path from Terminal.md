@@ -61,4 +61,4 @@ unalias [aliasname]
 
 --- 
 
-Have a great time. :stuck_out_tongue_winking_eye:
+Have a good time. :stuck_out_tongue_winking_eye:
