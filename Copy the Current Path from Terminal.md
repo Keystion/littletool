@@ -48,7 +48,7 @@ cppwd
 
 ## Extension
 
-### How do I remove "alias"
+### How do I remove "Custom alias"
 
 If you add a '`alias cppwd="pwd|pbcopy"`'. You can use this way:
 
