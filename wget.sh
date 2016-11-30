@@ -23,7 +23,7 @@ save_path=$PWD
 cd $cur_path
 
 echo
-echo $1' 已经下载完成'
+echo $1' 已经下载完成 '
 echo
 echo '保存位置：' $save_path
 echo
