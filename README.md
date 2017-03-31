@@ -5,4 +5,4 @@
 - [watch](./watch.md)
 - [wget](./wget.md)
 - [history && grep](./history-grep.md)
-- [Copy the Current Path from Terminal](./Copy the Current Path from Terminal.md)
+- [Copy the Current Path from Terminal](./copy-the-current-path-from-terminal.md)
