@@ -5,7 +5,7 @@
 simple code
 
 ```
-wget -r -p -np -k --restrict-file-names=nocontrol [url]
+wget -r -p -np -k --restrict-file-names=nocontrol --no-check-certificate [url]
 ```
 
 ---
@@ -47,3 +47,7 @@ chmod -x wget.sh // Writable
 
 - https://en.wikipedia.org/wiki/Wget
 - https://wiki.ubuntuusers.de/wget/
+
+#### Update
+
+- 2017.3.31 add param `--no-check-certificate`，When downloading https site, ignore certificate validation
