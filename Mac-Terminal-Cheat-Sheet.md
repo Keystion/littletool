@@ -101,3 +101,5 @@
 | reset | Resets the terminal display |
 | man [command] | Show the help for 'command' |
 | whatis [command] | Gives a one-line description of 'command' |
+
+Fork：https://gist.github.com/poopsplat/7195274
