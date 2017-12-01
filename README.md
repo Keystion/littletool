@@ -10,3 +10,4 @@
 - [CCTV 直播页面全屏](./tv.cntv.cn.md)
 - [纯粹为了漫游个人使用Sublime Text的一些配置](./Preferences.sublime-settings)
 - [Mac 终端 参考手册](./Mac-Terminal-Cheat-Sheet.md)
+- [Shell 字符串转驼峰字符串](./toCamelCaseName.sh)
