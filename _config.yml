@@ -2,7 +2,7 @@ title: Littletool
 description: 一些小脚本
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
