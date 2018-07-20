@@ -16,7 +16,7 @@ else
 cd 'wget_files'
 fi
 
-wget -r -p -np -k --restrict-file-names=nocontrol --no-check-certificate $1
+wget -r -p -np -k --restrict-file-names=nocontrol --no-check-certificate -e robots=off $1
 
 save_path=$PWD
 
