@@ -5,9 +5,12 @@
 simple code
 
 ```
-wget -r -p -np -k --restrict-file-names=nocontrol --no-check-certificate [url]
+wget -r -p -np -k --restrict-file-names=nocontrol --no-check-certificate -e robots=off [url]
 ```
 
+- `--restrict-file-names=nocontrol`: 防止乱码
+- `--no-check-certificate`: https
+- `-e robots=off`: 避开`robots.txt`规则
 ---
 
 Save the file to the specified directory：
