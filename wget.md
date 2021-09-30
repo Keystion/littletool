@@ -43,7 +43,7 @@ put it in `/Users/$user`
 ```
 chmod -x wget.sh // Writable
 
-./wget [url] // Any directory
+./wget.sh [url] // Any directory
 ```
 
 #### Wiki
