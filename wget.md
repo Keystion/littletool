@@ -41,7 +41,7 @@ wget -P [PATH] -i file.txt
 put it in `/Users/$user`
 
 ```
-chmod -x wget.sh // Writable
+chmod u+x wget.sh // Writable
 
 ./wget.sh [url] // Any directory
 ```
