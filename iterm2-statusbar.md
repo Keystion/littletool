@@ -1,6 +1,6 @@
 # iterm2 statusbar
 
-<img src="https://user-images.githubusercontent.com/2408287/157455317-dce32567-9bed-4cbe-872c-891ec7a158cf.png" width="400px">
+<img src="https://user-images.githubusercontent.com/2408287/157455317-dce32567-9bed-4cbe-872c-891ec7a158cf.png" width="800px">
 
 ## 开始
 
@@ -26,7 +26,7 @@ iterm2_set_user_var phpVersion $(php -v | awk '/^PHP/ { print $2 }')
 iterm2_set_user_var rubyVersion $(ruby -v | awk '{ print $2 }')
 iterm2_set_user_var nodeVersion $(node -v)
 ```
-<img src="https://user-images.githubusercontent.com/2408287/157456565-5d173b95-bde1-4c5b-88c5-a97c28dbd18d.png" width="800px">
+<img src="https://user-images.githubusercontent.com/2408287/157456565-5d173b95-bde1-4c5b-88c5-a97c28dbd18d.png" width="400px">
 
 配置文件 done
 
