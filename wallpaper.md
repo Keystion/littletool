@@ -2,7 +2,7 @@
 
 `Chrome Dev Tool` 
 
-Wallpaper site: :point_right: [:link:](https://interfacelift.com/wallpaper/downloads/date/any/) :point_left:
+Wallpaper site: [https://interfacelift.com/wallpaper/downloads/date/any/](https://interfacelift.com/wallpaper/downloads/date/any/) .
 
 ![Interfacelift.com](https://interfacelift.com/img_NEW/ifl-logo@2x.png)
 
@@ -21,6 +21,6 @@ Wallpaper site: :point_right: [:link:](https://interfacelift.com/wallpaper/downl
 5. Click result;
 6. Tools bulk download；
 
-:stuck_out_tongue:
+done.
 
 Updata time: 12/26 2015
