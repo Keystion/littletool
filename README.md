@@ -1,7 +1,7 @@
 # littletool
 
 - [figlet](./figlet.md)
-- [wallpaper](./wallpaper.md)
+- <del>[wallpaper](./wallpaper.md)</del>
 - [watch](./watch.md)
 - [wget](./wget.md)
 - [history && grep](./history-grep.md)
