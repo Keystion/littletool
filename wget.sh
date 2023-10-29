@@ -18,14 +18,18 @@ fi
 
 wget -r -p -np -k --restrict-file-names=nocontrol --no-check-certificate -e robots=off $1
 
+# 保存当前路径
 save_path=$PWD
+
+# 获取链接地址中的host
+current_url_host=$(echo $1 | awk -F/ '{print $3}')
 
 cd $cur_path
 
 echo
 echo $1' 已经下载完成 '
 echo
-echo '保存位置：' $save_path
+echo '保存位置：' $save_path/$current_url_host
 echo
 echo -e '\033[41;37m ===================== Power by Keystion ==================== \033[0m'
 echo
